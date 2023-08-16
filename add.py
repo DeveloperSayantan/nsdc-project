@@ -1,2 +1,2 @@
-a = 5+6
-print('Sum =' a)
+a = 5*6
+print(a)
